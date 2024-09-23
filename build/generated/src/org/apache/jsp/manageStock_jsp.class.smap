@@ -1,0 +1,26 @@
+SMAP
+manageStock_jsp.java
+JSP
+*S JSP
+*F
++ 0 header.html
+header.html
++ 1 manageStock.jsp
+manageStock.jsp
+*L
+1,55:51
+1#1,54:105
+54,3:159
+56,2:161
+57,3:163
+61,4:167
+64,3:171
+66,2:173
+67,39:175
+106,7:215
+112:222
+113,2:223,3
+115,2:229
+117,7:232
+123,12:239
+*E
